@@ -1,0 +1,112 @@
+C:\Users\Gia Ngoc\source\repos\BTLQLHG\BTLQLHG\bin\Debug\BTLQLHG.exe.config
+C:\Users\Gia Ngoc\source\repos\BTLQLHG\BTLQLHG\bin\Debug\BTLQLHG.exe
+C:\Users\Gia Ngoc\source\repos\BTLQLHG\BTLQLHG\bin\Debug\BTLQLHG.pdb
+C:\Users\Gia Ngoc\source\repos\BTLQLHG\BTLQLHG\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Gia Ngoc\source\repos\BTLQLHG\BTLQLHG\bin\Debug\Guna.UI.dll
+C:\Users\Gia Ngoc\source\repos\BTLQLHG\BTLQLHG\obj\Debug\BTLQLHG.csproj.AssemblyReference.cache
+C:\Users\Gia Ngoc\source\repos\BTLQLHG\BTLQLHG\obj\Debug\BTLQLHG.FormChuongTrinh.resources
+C:\Users\Gia Ngoc\source\repos\BTLQLHG\BTLQLHG\obj\Debug\BTLQLHG.Properties.Resources.resources
+C:\Users\Gia Ngoc\source\repos\BTLQLHG\BTLQLHG\obj\Debug\BTLQLHG.csproj.GenerateResource.cache
+C:\Users\Gia Ngoc\source\repos\BTLQLHG\BTLQLHG\obj\Debug\BTLQLHG.csproj.CoreCompileInputs.cache
+C:\Users\Gia Ngoc\source\repos\BTLQLHG\BTLQLHG\obj\Debug\BTLQLHG.csproj.CopyComplete
+C:\Users\Gia Ngoc\source\repos\BTLQLHG\BTLQLHG\obj\Debug\BTLQLHG.exe
+C:\Users\Gia Ngoc\source\repos\BTLQLHG\BTLQLHG\obj\Debug\BTLQLHG.pdb
+C:\Users\Gia Ngoc\source\repos\BTLQLHG\BTLQLHG\bin\Debug\EntityFramework.dll
+C:\Users\Gia Ngoc\source\repos\BTLQLHG\BTLQLHG\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gia Ngoc\source\repos\BTLQLHG\BTLQLHG\bin\Debug\EntityFramework.xml
+C:\Users\Gia Ngoc\source\repos\BTLQLHG\BTLQLHG\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gia Ngoc\source\repos\BTLQLHG\BTLQLHG\obj\Debug\BTLQLHG.FormDangNhap.resources
+C:\Users\Gia Ngoc\source\repos\BTLQLHG\BTLQLHG\bin\Debug\Guna.UI2.dll
+C:\Users\Gia Ngoc\source\repos\BTLQLHG\BTLQLHG\obj\Debug\BTLQLHG.HomeForm.resources
+C:\Users\Gia Ngoc\source\repos\BTLQLHG\BTLQLHG\obj\Debug\BTLQLHG.FormNhanVien.resources
+C:\Users\Gia Ngoc\source\repos\BTLQLHG\BTLQLHG\obj\Debug\BTLQLHG.FormKhachHang.resources
+C:\Users\Gia Ngoc\source\repos\BTLQLHG\BTLQLHG\obj\Debug\BTLQLHG.FormSanPham.resources
+C:\Users\Gia Ngoc\source\repos\BTLQLHG\BTLQLHG\obj\Debug\BTLQLHG.FormHoaDon.resources
+C:\Users\Gia Ngoc\source\repos\BTLQLHG\BTLQLHG\obj\Debug\BTLQLHG.FormCTHD.resources
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\BTLQLHG.exe.config
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\BTLQLHG.exe
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\BTLQLHG.pdb
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\EntityFramework.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\EntityFramework.SqlServer.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\FontAwesome.Sharp.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\Guna.UI.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\Guna.UI2.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\EntityFramework.xml
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\EntityFramework.SqlServer.xml
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\obj\Debug\BTLQLHG.csproj.AssemblyReference.cache
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\obj\Debug\BTLQLHG.FormChuongTrinh.resources
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\obj\Debug\BTLQLHG.FormCTHD.resources
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\obj\Debug\BTLQLHG.FormDangNhap.resources
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\obj\Debug\BTLQLHG.FormHoaDon.resources
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\obj\Debug\BTLQLHG.FormKhachHang.resources
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\obj\Debug\BTLQLHG.FormNhanVien.resources
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\obj\Debug\BTLQLHG.FormSanPham.resources
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\obj\Debug\BTLQLHG.HomeForm.resources
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\obj\Debug\BTLQLHG.Properties.Resources.resources
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\obj\Debug\BTLQLHG.csproj.GenerateResource.cache
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\obj\Debug\BTLQLHG.csproj.CoreCompileInputs.cache
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\obj\Debug\BTLQLHG.csproj.CopyComplete
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\obj\Debug\BTLQLHG.exe
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\obj\Debug\BTLQLHG.pdb
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\obj\Debug\RdlCompile.cache
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\obj\Debug\RdlCompile.compiled
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\EnvDTE.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\stdole.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\Microsoft.MSXML.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\obj\Debug\BTLQLHG.InHoaDon.resources
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Thư mục mới\BTLQLHG\BTLQLHG\BTLQLHG\obj\Debug\BTLQLHG.FormTaiKhoan.resources
